@@ -57,6 +57,7 @@ div.case			{
 				background-color: #F0F0F0;
 				position: absolute;
 				left: 50%;
+				left-margin: 150px;
 				}
 div.heading	{
 			width: 460px;
