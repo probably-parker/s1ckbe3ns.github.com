@@ -36,6 +36,7 @@ div.menur	{
 			-moz-boarder-radius: 6px;
 			-webkit-border-radius: 6px;
 			border-radius: 6px;
+			position: fixed;
 			}
 div.body			{
 				width:480px;
@@ -47,7 +48,6 @@ div.menul	{
 			background-color:#B0B0B0;
 			font-size: 28pt;
 			float: right;
-			position: fixed;
 			-moz-border-radius: 6px;
 			-webkit-border-radius: 6x;
 			border-radius: 6px;
@@ -55,6 +55,8 @@ div.menul	{
 div.case			{
 				width: 850px;
 				background-color: #F0F0F0;
+				position: absolute;
+				left: 50%;
 				}
 div.heading	{
 			width: 460px;
