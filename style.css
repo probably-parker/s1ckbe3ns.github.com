@@ -17,6 +17,8 @@ div.maintitle{
 			-moz-boarder-radius: 6px;
 			-webkit-border-radius: 6px;
 			border-radius: 6px;
+			position: absolute;
+			left: 50%
 			}
 div.footer		{
 				height: 30px;
@@ -30,7 +32,7 @@ div.menur	{
 			width: 170px;
 			height: 1000px;
 			background-color: #B0B0B0;
-			float: left;
+			float: right;
 			-moz-boarder-radius: 6px;
 			-webkit-border-radius: 6px;
 			border-radius: 6px;
