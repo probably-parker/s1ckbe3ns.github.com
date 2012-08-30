@@ -47,7 +47,7 @@ div.menul	{
 			height: 550px;
 			background-color:#B0B0B0;
 			font-size: 28pt;
-			float: right;
+			float: left;
 			-moz-border-radius: 6px;
 			-webkit-border-radius: 6x;
 			border-radius: 6px;
@@ -66,6 +66,9 @@ div.heading	{
 			font-family: 'Cantora One', Times;
 			font-size: 28pt;
 			background-color: #B2B2D1;
+			-moz-border-radius: 6px;
+			-webkit-border-radius: 6x;
+			border-radius: 6px;
 			}
 div.words		{
 				width: 460px;
